@@ -103,3 +103,14 @@ def predict(features: CancerFeatures):
         "prediction_code": int(prediction),
         "probability": probability
     }
+
+@app.get("/")
+def home():
+    return {
+        "status": "running",
+        "message": "Cancer Prediction API is live"
+    }
+
+@app.get("/health")
+def health():
+    return {"status": "healthy"}
