@@ -1,0 +1,62 @@
+{
+    "perimeter_worst": {
+        "min": 50.41,
+        "max": 251.2
+    },
+    "perimeter_mean": {
+        "min": 43.79,
+        "max": 188.5
+    },
+    "radius_worst": {
+        "min": 7.93,
+        "max": 36.04
+    },
+    "concave points_mean": {
+        "min": 0.0,
+        "max": 0.2012
+    },
+    "concave points_worst": {
+        "min": 0.0,
+        "max": 0.291
+    },
+    "radius_mean": {
+        "min": 6.981,
+        "max": 28.11
+    },
+    "texture_worst": {
+        "min": 12.02,
+        "max": 49.54
+    },
+    "area_worst": {
+        "min": 185.2,
+        "max": 4254.0
+    },
+    "area_mean": {
+        "min": 143.5,
+        "max": 2501.0
+    },
+    "concavity_worst": {
+        "min": 0.0,
+        "max": 1.252
+    },
+    "compactness_worst": {
+        "min": 0.0273,
+        "max": 1.058
+    },
+    "smoothness_worst": {
+        "min": 0.0712,
+        "max": 0.2226
+    },
+    "compactness_se": {
+        "min": 0.0023,
+        "max": 0.1354
+    },
+    "area_se": {
+        "min": 6.802,
+        "max": 542.2
+    },
+    "texture_mean": {
+        "min": 9.71,
+        "max": 39.28
+    }
+}
